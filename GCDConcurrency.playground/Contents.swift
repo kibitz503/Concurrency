@@ -37,18 +37,6 @@ func processArray() {
     }
 }
 
-//func processArray() {
-//    var awesomeArray = [String]()
-//
-//    startingArray.forEach { value in
-//        Server.shared.awesomeifier(value) { awesomeValue in
-//            awesomeArray.append(awesomeValue)
-//        }
-//    }
-//
-//    print(awesomeArray)
-//}
-
 processArray()
 
 
